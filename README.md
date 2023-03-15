@@ -30,4 +30,16 @@
 ## Scores by School Type
   #### ![image](https://user-images.githubusercontent.com/122246053/225438234-5c171a09-b9dd-4aca-823d-56430ae85702.png)
 
+## Written Report
+#### There is a noticeable difference between District and Charter Schools:
+#### • The Highest-Performing schools are all Charter schools.
+#### • The Lowest-Performing schools are all Charter schools.
+#### • Cabrera High School has the best Overall-Passing score. 
+#### • Rodriguez High School has the lowest Overall-Passing score.
+#### • Reading scores are better than Math Scores
+
+#### The biggest Gap between District and Charter Schools, is in the Math Scores. The difference between the top 5 and the lower 5 schools is notorious. There has to be an evaluation to identify if there should be a reassessment in the type of math education that is provided at the District Schools. 
+#### Regarding the budget spent per student there is an indirect relation between Amount Spent Vs. Average Scores. At first, without looking at the data, it would be easy to imagine that by spending more per student, the scores would be better. But looking at the data, the opposite is happening. The least spent per student, the better the scores. 
+#### The Scores drop significantly when School Size is greater than 2000 students. It would bee interesting to evaluate how many teachers there are per classroom to evaluate if the amount students is too high per teacher. 
+#### Overall, Charter Schools performance is superior than District Schools. There are some variables that would be important to consider such as Salary, benefits, experience, etc., to better conclude on why the difference between the 2 types of schools.
 
