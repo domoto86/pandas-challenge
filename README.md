@@ -12,4 +12,12 @@
   #### • Create a new DataFrame for the above calculations called district_summary
   ![image](https://user-images.githubusercontent.com/122246053/225431403-8345b4a0-1064-4e33-9323-4811c3764b45.png)
   
+## School Summary
+  #### ![image](https://user-images.githubusercontent.com/122246053/225435923-22616bdf-d729-4965-a308-b0f09b8d45a8.png)
+
+## Highest-Performing Schools by Percentage of Overall Passing
+  #### ![image](https://user-images.githubusercontent.com/122246053/225436095-aedbbbc7-4c7f-48a2-894a-25b882ed18ea.png)
+## Lowest-Performing Schools by Percentage of Overall Passing
+  #### ![image](https://user-images.githubusercontent.com/122246053/225436201-b4322cea-6a3f-4f74-85ef-bb5d00ed7c50.png)
+
 
